@@ -1,0 +1,67 @@
+body {
+  margin: 0%;
+  font-family: "Montserrat", sans-serif;
+}
+
+.nav-bar-item {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+}
+.front-page {
+  background-color: #fab7b7;
+  padding: 0 20px 20px;
+  color: white;
+  padding-bottom: 5%;
+}
+.front-shoe-image {
+  width: 41%;
+  position: relative;
+  top: 30%;
+  right: 45%;
+  transform: rotate(-25deg);
+}
+
+.btn {
+  position: absolute;
+  top: 71%;
+  left: 6%;
+
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 20px;
+  margin-top: 15px;
+  text-decoration: none;
+}
+.col {
+  padding: 40px;
+}
+.col-text {
+  position: relative;
+  bottom: 65px;
+  right: 28%;
+  padding-left: 200px;
+}
+.features-page {
+  padding-top: 200px;
+  padding-bottom: 200px;
+  text-align: center;
+}
+.features-page h1 {
+  font-size: 3rem;
+  padding: 20px;
+}
+.features-page p {
+  font-size: 1.5rem;
+}
+
+#cta {
+  background-color: #fab7b7;
+  text-align: center;
+  color: #ffffff;
+  padding-top: 3%;
+  padding-bottom: 1%;
+}
+.cta-btn {
+  position: relative;
+  left: 0.01%;
+}
